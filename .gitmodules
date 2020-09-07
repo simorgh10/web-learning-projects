@@ -1,0 +1,3 @@
+[submodule "nodejs-zoom-clone"]
+	path = nodejs-zoom-clone
+	url = https://github.com/simorgh10/nodejs-zoom-clone.git
