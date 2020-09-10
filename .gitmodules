@@ -1,3 +1,6 @@
 [submodule "nodejs-zoom-clone"]
 	path = nodejs-zoom-clone
 	url = https://github.com/simorgh10/nodejs-zoom-clone.git
+[submodule "Try-Django-2.2"]
+	path = Try-Django-2.2
+	url = https://github.com/simorgh10/Try-Django-2.2.git
