@@ -4,3 +4,6 @@
 [submodule "Try-Django-2.2"]
 	path = Try-Django-2.2
 	url = https://github.com/simorgh10/Try-Django-2.2.git
+[submodule "Django-on-Docker"]
+	path = Django-on-Docker
+	url = https://github.com/simorgh10/Django-on-Docker.git
