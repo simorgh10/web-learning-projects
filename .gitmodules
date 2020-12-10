@@ -7,3 +7,6 @@
 [submodule "Django-on-Docker"]
 	path = Django-on-Docker
 	url = https://github.com/simorgh10/Django-on-Docker.git
+[submodule "Asynchronous-JavaScript-Tutorial-Net-Ninja"]
+	path = Asynchronous-JavaScript-Tutorial-Net-Ninja
+	url = https://github.com/simorgh10/Asynchronous-JavaScript-Tutorial-Net-Ninja.git
