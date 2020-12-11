@@ -10,3 +10,6 @@
 [submodule "Asynchronous-JavaScript-Tutorial-Net-Ninja"]
 	path = Asynchronous-JavaScript-Tutorial-Net-Ninja
 	url = https://github.com/simorgh10/Asynchronous-JavaScript-Tutorial-Net-Ninja.git
+[submodule "wildfire-tracker"]
+	path = wildfire-tracker
+	url = https://github.com/simorgh10/wildfire-tracker.git
