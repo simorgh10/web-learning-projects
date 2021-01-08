@@ -13,3 +13,6 @@
 [submodule "wildfire-tracker"]
 	path = wildfire-tracker
 	url = https://github.com/simorgh10/wildfire-tracker.git
+[submodule "material-ui-react-tutorial"]
+	path = material-ui-react-tutorial
+	url = https://github.com/simorgh10/material-ui-react-tutorial.git
